@@ -10,6 +10,11 @@
 1|3|SPECODE|ZString|17|8|Özel Kod|Auxiliary Code
 1|3|DEFINITION_|ZString|41|25|Açıklama|Description
 1|3|COLOR|Byte|1|66|Renk|Color
+1|3|SPETYP1|Byte|1|66|1 ise desen|pattern if 1
+1|3|SPETYP2|Byte|1|66|1 ise ebat|size if 1
+1|3|SPETYP3|Byte|1|66|1 ise renk|colour if 1
+1|3|SPETYP4|Byte|1|66|1 ise şekil|shape if 1
+1|3|SPETYP5|Byte|1|66|1 ise tip|type if 1
 1|3|WINCOLOR|Longint|4|67|Pencere rengi|Window Color
 1|3|SITEID|Integer|2|71|Veri Merkezi|Data Processing Site
 1|3|RECSTATUS|Integer|2|73|Kayıt Durumu|Record Status
