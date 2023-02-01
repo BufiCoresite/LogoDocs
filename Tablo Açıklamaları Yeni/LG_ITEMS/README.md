@@ -9,7 +9,7 @@
 1|3|CARDTYPE|Integer|2|6|Malzeme Kartı Türü ;1- (TM) Ticari Mal;2- (KK) Karma Koli;3- (DM) Depozitolu Mal;4- (SK) Sabit Kıymet;10- (HM) Hammadde;11- (YM) Yarı Mamul;12- (MM) Mamul;13- (TK) Tüketim Malı;20- (MS) Malzeme Sınıfı (Genel);21- (MT) Malzeme Sınıfı (Tablolu)|Item Card Type ;1- (TM) Commercial Good;2- (KK) Mixed case;3- (DM) Deposited Item;4- (SK) Fixed Asset;10- (HM) Raw Material;11- (YM) Semi Finished Good;12- (MM) Finished Good;13- (TK) Consumer Goods;20- (MS) Material Class (General);21- (MT) Material Clas
 1|3|CODE|ZString|25|8|Malzeme Kartı Kodu|Item Card Code
 1|3|NAME|ZString|51|33|Malzeme Kartı Açıklaması|Item Card Definition
-1|3|STGRPCODE|ZString|17|84|Malzeme Grup Kodu (Marka)|Item Group Code (Brand)
+1|3|STGRPCODE|ZString|17|84|Malzeme Grup Kodu (Kategori)|Item Group Code (Category)
 1|3|PRODUCERCODE|ZString|25|101|Üretici Kodu|Producer Code
 1|3|SPECODE|ZString|11|126|Desen|Pattern
 1|3|SPECODE2|ZString|11|126|Ebat|Size
